@@ -1,58 +1,52 @@
-2026-04-21 11:34:28 INFO  TC001_AccountRegistrationTest:17 - Starting testcase
-2026-04-21 11:34:28 INFO  TC001_AccountRegistrationTest:21 - we clicked on my account
-2026-04-21 11:34:29 INFO  TC001_AccountRegistrationTest:23 - we clicked on Registration
-2026-04-21 11:34:29 INFO  TC001_AccountRegistrationTest:26 - Providing Customer details
-2026-04-21 11:34:30 INFO  TC001_AccountRegistrationTest:36 - Validating expected message
-2026-04-21 11:34:31 INFO  TC001_AccountRegistrationTest:52 - Finished TC001
-2026-04-21 11:34:37 INFO  TC002_LoginTest:15 - **starting TC002_LoginTest**
-2026-04-21 11:37:46 INFO  TC001_AccountRegistrationTest:17 - Starting testcase
-2026-04-21 11:37:46 INFO  TC001_AccountRegistrationTest:21 - we clicked on my account
-2026-04-21 11:37:47 INFO  TC001_AccountRegistrationTest:23 - we clicked on Registration
-2026-04-21 11:37:47 INFO  TC001_AccountRegistrationTest:26 - Providing Customer details
-2026-04-21 11:37:47 INFO  TC001_AccountRegistrationTest:36 - Validating expected message
-2026-04-21 11:37:48 INFO  TC001_AccountRegistrationTest:52 - Finished TC001
-2026-04-21 11:37:55 INFO  TC002_LoginTest:15 - **starting TC002_LoginTest**
-2026-04-21 11:38:30 INFO  TC002_LoginTest:15 - **starting TC002_LoginTest**
-2026-04-21 11:40:50 INFO  TC001_AccountRegistrationTest:17 - Starting testcase
-2026-04-21 11:40:50 INFO  TC001_AccountRegistrationTest:21 - we clicked on my account
-2026-04-21 11:40:51 INFO  TC001_AccountRegistrationTest:23 - we clicked on Registration
-2026-04-21 11:40:51 INFO  TC001_AccountRegistrationTest:26 - Providing Customer details
-2026-04-21 11:40:51 INFO  TC001_AccountRegistrationTest:36 - Validating expected message
-2026-04-21 11:40:53 INFO  TC001_AccountRegistrationTest:52 - Finished TC001
-2026-04-21 11:41:00 INFO  TC002_LoginTest:15 - **starting TC002_LoginTest**
-2026-04-21 11:41:02 INFO  TC002_LoginTest:34 - Finished TC002
-2026-04-21 11:42:54 INFO  TC001_AccountRegistrationTest:17 - Starting testcase
-2026-04-21 11:43:00 INFO  TC002_LoginTest:15 - **starting TC002_LoginTest**
-2026-04-21 11:43:02 INFO  TC001_AccountRegistrationTest:17 - Starting testcase
-2026-04-21 11:43:03 INFO  TC001_AccountRegistrationTest:21 - we clicked on my account
-2026-04-21 11:43:03 INFO  TC001_AccountRegistrationTest:23 - we clicked on Registration
-2026-04-21 11:43:03 INFO  TC001_AccountRegistrationTest:26 - Providing Customer details
-2026-04-21 11:43:04 INFO  TC002_LoginTest:34 - Finished TC002
-2026-04-21 11:43:04 INFO  TC001_AccountRegistrationTest:36 - Validating expected message
-2026-04-21 11:43:05 INFO  TC001_AccountRegistrationTest:52 - Finished TC001
-2026-04-21 11:43:11 INFO  TC002_LoginTest:15 - **starting TC002_LoginTest**
-2026-04-21 11:43:13 INFO  TC002_LoginTest:34 - Finished TC002
-2026-04-21 23:10:21 INFO  TC001_AccountRegistrationTest:17 - Starting testcase
-2026-04-21 23:10:21 INFO  TC001_AccountRegistrationTest:21 - we clicked on my account
-2026-04-21 23:10:22 INFO  TC001_AccountRegistrationTest:23 - we clicked on Registration
-2026-04-21 23:10:22 INFO  TC001_AccountRegistrationTest:26 - Providing Customer details
-2026-04-21 23:10:23 INFO  TC001_AccountRegistrationTest:36 - Validating expected message
-2026-04-21 23:10:25 INFO  TC001_AccountRegistrationTest:52 - Finished TC001
-2026-04-21 23:10:36 INFO  TC002_LoginTest:15 - **starting TC002_LoginTest**
-2026-04-21 23:10:38 INFO  TC002_LoginTest:34 - Finished TC002
-2026-04-21 23:39:29 INFO  TC001_AccountRegistrationTest:17 - Starting testcase
-2026-04-21 23:39:29 INFO  TC001_AccountRegistrationTest:21 - we clicked on my account
-2026-04-21 23:39:30 INFO  TC001_AccountRegistrationTest:23 - we clicked on Registration
-2026-04-21 23:39:30 INFO  TC001_AccountRegistrationTest:26 - Providing Customer details
-2026-04-21 23:39:31 INFO  TC001_AccountRegistrationTest:36 - Validating expected message
-2026-04-21 23:39:32 INFO  TC001_AccountRegistrationTest:52 - Finished TC001
-2026-04-21 23:39:41 INFO  TC002_LoginTest:15 - **starting TC002_LoginTest**
-2026-04-21 23:39:42 INFO  TC002_LoginTest:34 - Finished TC002
-2026-04-21 23:50:30 INFO  TC001_AccountRegistrationTest:17 - Starting testcase
-2026-04-21 23:50:30 INFO  TC001_AccountRegistrationTest:21 - we clicked on my account
-2026-04-21 23:50:31 INFO  TC001_AccountRegistrationTest:23 - we clicked on Registration
-2026-04-21 23:50:31 INFO  TC001_AccountRegistrationTest:26 - Providing Customer details
-2026-04-21 23:50:34 INFO  TC001_AccountRegistrationTest:36 - Validating expected message
-2026-04-21 23:50:34 INFO  TC001_AccountRegistrationTest:52 - Finished TC001
-2026-04-21 23:50:42 INFO  TC002_LoginTest:15 - **starting TC002_LoginTest**
-2026-04-21 23:50:44 INFO  TC002_LoginTest:34 - Finished TC002
+2026-04-22 10:31:05 INFO  TC001_AccountRegistrationTest:17 - Starting testcase
+2026-04-22 10:31:05 INFO  TC001_AccountRegistrationTest:21 - we clicked on my account
+2026-04-22 10:31:05 INFO  TC001_AccountRegistrationTest:23 - we clicked on Registration
+2026-04-22 10:31:05 INFO  TC001_AccountRegistrationTest:26 - Providing Customer details
+2026-04-22 10:31:06 INFO  TC001_AccountRegistrationTest:36 - Validating expected message
+2026-04-22 10:31:07 INFO  TC001_AccountRegistrationTest:52 - Finished TC001
+2026-04-22 10:31:14 INFO  TC002_LoginTest:15 - **starting TC002_LoginTest**
+2026-04-22 10:31:16 INFO  TC002_LoginTest:34 - Finished TC002
+2026-04-22 10:44:44 INFO  TC001_AccountRegistrationTest:17 - Starting testcase
+2026-04-22 10:44:45 INFO  TC001_AccountRegistrationTest:21 - we clicked on my account
+2026-04-22 10:44:45 INFO  TC001_AccountRegistrationTest:23 - we clicked on Registration
+2026-04-22 10:44:45 INFO  TC001_AccountRegistrationTest:26 - Providing Customer details
+2026-04-22 10:44:47 INFO  TC001_AccountRegistrationTest:36 - Validating expected message
+2026-04-22 10:44:47 INFO  TC001_AccountRegistrationTest:52 - Finished TC001
+2026-04-22 10:44:54 INFO  TC002_LoginTest:15 - **starting TC002_LoginTest**
+2026-04-22 10:44:56 INFO  TC002_LoginTest:34 - Finished TC002
+2026-04-22 10:46:00 INFO  TC001_AccountRegistrationTest:17 - Starting testcase
+2026-04-22 10:46:01 INFO  TC001_AccountRegistrationTest:21 - we clicked on my account
+2026-04-22 10:46:02 INFO  TC001_AccountRegistrationTest:23 - we clicked on Registration
+2026-04-22 10:46:02 INFO  TC001_AccountRegistrationTest:26 - Providing Customer details
+2026-04-22 10:46:04 INFO  TC001_AccountRegistrationTest:36 - Validating expected message
+2026-04-22 10:46:04 INFO  TC001_AccountRegistrationTest:52 - Finished TC001
+2026-04-22 10:46:05 INFO  TC001_AccountRegistrationTest:17 - Starting testcase
+2026-04-22 10:46:05 INFO  TC001_AccountRegistrationTest:21 - we clicked on my account
+2026-04-22 10:46:05 INFO  TC001_AccountRegistrationTest:23 - we clicked on Registration
+2026-04-22 10:46:05 INFO  TC001_AccountRegistrationTest:26 - Providing Customer details
+2026-04-22 10:46:07 INFO  TC001_AccountRegistrationTest:36 - Validating expected message
+2026-04-22 10:46:07 INFO  TC001_AccountRegistrationTest:52 - Finished TC001
+2026-04-22 10:46:32 INFO  TC001_AccountRegistrationTest:17 - Starting testcase
+2026-04-22 10:46:32 INFO  TC001_AccountRegistrationTest:21 - we clicked on my account
+2026-04-22 10:46:33 INFO  TC001_AccountRegistrationTest:23 - we clicked on Registration
+2026-04-22 10:46:33 INFO  TC001_AccountRegistrationTest:26 - Providing Customer details
+2026-04-22 10:46:33 INFO  TC001_AccountRegistrationTest:17 - Starting testcase
+2026-04-22 10:46:33 INFO  TC001_AccountRegistrationTest:21 - we clicked on my account
+2026-04-22 10:46:34 INFO  TC001_AccountRegistrationTest:23 - we clicked on Registration
+2026-04-22 10:46:34 INFO  TC001_AccountRegistrationTest:26 - Providing Customer details
+2026-04-22 10:46:34 INFO  TC001_AccountRegistrationTest:36 - Validating expected message
+2026-04-22 10:46:34 INFO  TC001_AccountRegistrationTest:52 - Finished TC001
+2026-04-22 10:46:35 INFO  TC001_AccountRegistrationTest:36 - Validating expected message
+2026-04-22 10:46:36 INFO  TC001_AccountRegistrationTest:52 - Finished TC001
+2026-04-22 10:46:48 INFO  TC001_AccountRegistrationTest:17 - Starting testcase
+2026-04-22 10:46:48 INFO  TC001_AccountRegistrationTest:21 - we clicked on my account
+2026-04-22 10:46:49 INFO  TC001_AccountRegistrationTest:23 - we clicked on Registration
+2026-04-22 10:46:49 INFO  TC001_AccountRegistrationTest:26 - Providing Customer details
+2026-04-22 10:46:50 INFO  TC001_AccountRegistrationTest:36 - Validating expected message
+2026-04-22 10:46:51 INFO  TC001_AccountRegistrationTest:52 - Finished TC001
+2026-04-22 10:46:57 INFO  TC001_AccountRegistrationTest:17 - Starting testcase
+2026-04-22 10:46:57 INFO  TC001_AccountRegistrationTest:21 - we clicked on my account
+2026-04-22 10:46:58 INFO  TC001_AccountRegistrationTest:23 - we clicked on Registration
+2026-04-22 10:46:58 INFO  TC001_AccountRegistrationTest:26 - Providing Customer details
+2026-04-22 10:46:59 INFO  TC001_AccountRegistrationTest:36 - Validating expected message
+2026-04-22 10:47:00 INFO  TC001_AccountRegistrationTest:52 - Finished TC001
